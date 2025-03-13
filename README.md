@@ -1,6 +1,6 @@
 # Developing graphical user interface enabling fringe pattern analysis using Hilbert-Huang transform method
 
-# Bachelor's thesis 2020 by Mateusz Koliński
+## Bachelor's thesis 2020 by Mateusz Koliński
 
 A graphical user interface was developed, enabling fringe pattern analysis using Hilbert-Huang transform in MATLAB environment, employing AppDesigner application. To calculate output phase distribution only a single fringe pattern is required. Application implements the following steps:
 
@@ -9,6 +9,7 @@ A graphical user interface was developed, enabling fringe pattern analysis using
 ![Uploaded fringe pattern](/Assets/1Upload.png)
 
 2. Two-dimensional empirical mode decomposition and summation of selected BIMFs
+
 ![2DEMD](/Assets/2EMD.png)
 
 3. Calculation of fringe orientation map
@@ -37,3 +38,9 @@ A graphical user interface was developed, enabling fringe pattern analysis using
 
 
 The user during each step has the possibility of tailoring important parameters as well as saving every image, viewing it in a new window, changing the viewing mode, legend, color maps and tooltips. Additionally there is a possibility of saving every image from the entire application to a single file and loading them in similar fashion.
+
+All the above steps are done in three app tabs:
+
+1. Two-dimensional empirical mode decomposition tab
+2. Hilbert spiral transform tab
+3. Phase distribution surface fitting
