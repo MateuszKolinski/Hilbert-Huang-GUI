@@ -17,23 +17,23 @@ A graphical user interface was developed, enabling fringe pattern analysis using
 
 4. Smoothing fringe orientation map
 
-![Smooeting](/Assets/4Smooth.png.png)
+![Smoothing](/Assets/4Smooth.png)
 
 5. Hilbert spiral transform
 
-![Hilbert](/Assets/5Hilbert.png.png)
+![Hilbert](/Assets/5Hilbert.png)
 
 6. Calculation of phase distribution
 
-![Phase](/Assets/6Phase.png.png)
+![Phase](/Assets/6Phase.png)
 
 7. Phase unwrapping
 
-![Unwrapping](/Assets/7Unwrapping.png.png)
+![Unwrapping](/Assets/7Unwrapping.png)
 
 8. Image cropping, phase distribution surface fitting and subtraction of fitted term from the phase distribution.
 
-![Fitting](/Assets/8Fit.png.png)
+![Fitting](/Assets/8Fit.png)
 
 
 The user during each step has the possibility of tailoring important parameters as well as saving every image, viewing it in a new window, changing the viewing mode, legend, color maps and tooltips. Additionally there is a possibility of saving every image from the entire application to a single file and loading them in similar fashion.
