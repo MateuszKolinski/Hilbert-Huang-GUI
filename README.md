@@ -44,3 +44,5 @@ All the above steps are done in three app tabs:
 1. Two-dimensional empirical mode decomposition tab
 2. Hilbert spiral transform tab
 3. Phase distribution surface fitting
+
+At every step, user has the ability to save or closely inspect each and every image displayed. App also has a built-in "Auto" function, which applies all steps with default parameters. After a successful analysis, a .pdf report can be automatically generated. A user can choose and change at will at any time an image display mode (either "imagesc" or "uiimage"), style of color maps, enable tooltips and colorbars. Since some images may take longer to process, a status indicator lights up whenever calculations are in progress.
